@@ -1,4 +1,3 @@
-
 import SideNav from "@/app/ui/dashboard/sidenav";
 
 export default function Home() {
@@ -7,7 +6,7 @@ export default function Home() {
       <div className="w-full flex-none md:w-64">
         <SideNav />
       </div>
-      <div className="flex-grow p-6 md:overflow-y-auto md:p-12">hello</div>
+      <div className="flex-grow p-6 md:overflow-y-auto md:p-12">monitor</div>
     </div>
   );
 }
